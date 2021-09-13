@@ -10,5 +10,8 @@ $ git clone https://github.com/yxlix/translate.git
 $ cd translate
 
 # 安装依赖并运行
-$ npm install && npm start
+$ yarn && yarn start
+
+# 打包
+$ yarn run make
 ```
